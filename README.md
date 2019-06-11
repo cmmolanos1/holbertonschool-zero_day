@@ -1,4 +1,5 @@
 **MY FIRST REPOSITORY AS A HOLBERTON STUDENT**
+
 I have been learning in this first day about Vagrant, EMACS, Vi and GIThub. Each activities were divided by folders:
 
 1. 0x00-vagrant: I learnt how to add, commit and push files with git. 
